@@ -23,14 +23,14 @@
 
 ## 👋 About Me
 
-- 🚀  **AI Engineer × Full-Stack Architect × AI System Designer**
-- 🎓 B.Tech (AI/ML Specialization) 3rd Year (2023–2027) @ IIT Roorkee
+-  **AI Engineer × Full-Stack Architect × AI System Designer**
+-  B.Tech, 3rd Year (2023–2027) @ IIT Roorkee
 
-Third-year IIT Roorkee student working on **machine learning, data science, LLMs, and agentic AI systems**. Interested in building scalable, real-world solutions-focusing on **multimodal AI, real-time inference, LLM-powered applications.
-**
+Third-year IIT Roorkee student working on **machine learning, data science, LLMs, and agentic AI systems**. Interested in building scalable, real-world solutions-focusing on **multimodal AI, real-time inference, LLM-powered applications.**
+<br>
 Driven to convert complex challenges into high-performance, production-ready systems.
 
-⚙️ Stack: **Docker | Kubernetes | AWS | FastAPI | PyTorch | LangChain | LangGraph**
+⚙️ Stack: **Docker | Kubernetes | AWS | FastAPI | PyTorch | LangChain | LangGraph** <br>
 🧠 Specialization: **RAG pipelines | Multimodal AI | Agentic systems | Real-time inference**
 
 ---
@@ -95,7 +95,7 @@ Driven to convert complex challenges into high-performance, production-ready sys
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Adityaydv1234E&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Adityaydv1234&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityaydv1234&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 

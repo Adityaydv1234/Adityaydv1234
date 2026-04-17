@@ -27,6 +27,7 @@
 -  B.Tech, 3rd Year (2023–2027) @ IIT Roorkee
 
 Third-year IIT Roorkee student working on **machine learning, data science, LLMs, and agentic AI systems**. Interested in building scalable, real-world solutions-focusing on **multimodal AI, real-time inference, LLM-powered applications.**
+
 <br>
 Driven to convert complex challenges into high-performance, production-ready systems.
 

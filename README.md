@@ -4,7 +4,7 @@
      Copy-paste into README.md
 ========================= -->
 
-<h1 align="center">Hi there! I'm Ekant Sarkar 👋</h1>
+<h1 align="center">Hi there! I'm Aditya Yadav 👋</h1>
 
 <p align="center">
   <a href="https://github.com/YOUR_USERNAME?tab=repositories">

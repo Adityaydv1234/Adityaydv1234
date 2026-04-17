@@ -28,7 +28,6 @@
 
 Third-year IIT Roorkee student working on **machine learning, data science, LLMs, and agentic AI systems**. Interested in building scalable, real-world solutions-focusing on **multimodal AI, real-time inference, LLM-powered applications.**
 
-<br>
 Driven to convert complex challenges into high-performance, production-ready systems.
 
 ⚙️ Stack: **Docker | Kubernetes | AWS | FastAPI | PyTorch | LangChain | LangGraph** <br>

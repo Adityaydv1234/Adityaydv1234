@@ -1,13 +1,8 @@
-## Hi there 👋
-<!-- =========================
-     GITHUB PROFILE README
-     Copy-paste into README.md
-========================= -->
 
 <h1 align="center">Hi there! I'm Aditya Yadav 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME?tab=repositories">
+  <a href="https://github.com/Adityaydv1234?tab=repositories">
     <img src="https://img.shields.io/badge/▲_EXPLORE_MY_PORTFOLIO-6C63FF?style=for-the-badge&logoColor=white" />
   </a>
   &nbsp;
@@ -31,16 +26,14 @@
 - 🚀  **AI Engineer × Full-Stack Architect × AI System Designer**
 - 🎓 B.Tech (AI/ML Specialization) 3rd Year (2023–2027) @ IIT Roorkee
 
-Third-year IIT Roorkee student working on machine learning, data science, LLMs, and agentic AI systems. Interested in building scalable, real-world solutions and leveraging advanced AI to solve complex problems.
-
+Third-year IIT Roorkee student working on **machine learning, data science, LLMs, and agentic AI systems**. Interested in building scalable, real-world solutions-focusing on **multimodal AI, real-time inference, LLM-powered applications.
+**
 Driven to convert complex challenges into high-performance, production-ready systems.
 
-⚙️ Stack: Docker | Kubernetes | AWS | FastAPI | PyTorch | LangChain | LangGraph
-🧠 Specialization: RAG pipelines | Multimodal AI | Agentic systems | Real-time inference
+⚙️ Stack: **Docker | Kubernetes | AWS | FastAPI | PyTorch | LangChain | LangGraph**
+🧠 Specialization: **RAG pipelines | Multimodal AI | Agentic systems | Real-time inference**
 
 ---
-
-## 🛠️ Daily Tools
 
 ## 🛠️ Daily Tools
 
@@ -110,15 +103,6 @@ Driven to convert complex challenges into high-performance, production-ready sys
   <img src="https://streak-stats.demolab.com?user=Adityaydv1234&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-## ✨ Profile Views
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Adityaydv1234&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
----
 
 <p align="center">
   Learning LLMs, building agents, shipping real-world systems 🚀

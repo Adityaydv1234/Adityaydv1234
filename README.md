@@ -13,9 +13,7 @@
 
 <p align="center">
   <i>
-    Engineerinng Multimodal AI •  • LLM Based Applications • Real Time Systems 
-    <br>
-    Featured Work: 
+    Engineerinng Multimodal AI   • LLM Based Applications • Real Time Systems 
   </i>
 </p>
 
